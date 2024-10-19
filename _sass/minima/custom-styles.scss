@@ -1,2 +1,21 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+body {
+  background-color: #a3ffc0;
+}
+
+li .post-meta {
+    color: #000;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+li .post-link {
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.post-link:visited {
+    color: #000000; // Example color for visited links
+}
