@@ -83,7 +83,7 @@ Match: Uhm, Mister Speaker Thing? I see Pen’s name written on the cupcake!
 
 Bubble: Hey! I see mine on mine, too!
 
-Show: everyone agrees
+Show: *everyone agrees*
 
 Pen: So, does that mean the cupcake’s mine and I’m safe?
 
