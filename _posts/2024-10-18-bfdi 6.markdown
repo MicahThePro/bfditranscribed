@@ -349,7 +349,7 @@ Announcer: Team three.
 
 Match: Yes!
 
-Pencil & Match & Bubble: everyone screams
+Pencil & Match & Bubble: *everyone screams*
 
 Coiny: It works!
 
@@ -357,7 +357,7 @@ Snowball: OUT OF MY WAY!
 
 Announcer: SB, GB, Rocky, you’re team four, so you’re all safe. Leave.
 
-Golf Ball & Snowball: everyone screams’
+Golf Ball & Snowball: *everyone screams*
 
 Announcer: Coiny, Icy, Needy- You’re in fifth, last team. One of you will be eliminated.
 
