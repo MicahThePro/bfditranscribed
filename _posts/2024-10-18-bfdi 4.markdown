@@ -10,10 +10,9 @@ categories: Season One
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cdmVPHdpECM?si=ut_oWxXx_PGcApyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/cdmVPHdpECM?si=ut_oWxXx_PGcApyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ~~~
-
 BFDI INTRO
 
 Leafy:  Needy… I know it is trying to offer us something great, but what IS that speaker thing? I suggest we dismantle it to find out! Hyup! Uh-oh. I missed.
@@ -283,5 +282,4 @@ Announcer: Well, the Grapes won this part, so now it’s a two-way tie. So we ne
 Show: Breaking news! Scientists have recently classified Earth as a triple planet system! Consisting of Earth, the Moon and something called ‘Needle’s Cake’. That is supposedly a rapidly-growing cake that has separated from Earth. Scientists predict that Needle’s Cake will start nuclear fusion and become a star in three weeks.
 
 Leafy: Yeah, I guess it’s pretty big, Needy.
-
 ~~~
