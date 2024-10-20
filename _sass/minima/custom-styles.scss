@@ -36,7 +36,10 @@ li .post-link {
         }
     }
 }
-
+.video-iframe {
+    width: 100%;
+    height: 56.25vw; // 16:9 aspect ratio
+}
 .wrapper {
     max-width: 100%; // Adjust the value as needed
 }
