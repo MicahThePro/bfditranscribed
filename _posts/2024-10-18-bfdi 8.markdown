@@ -10,7 +10,7 @@ categories: Season One
 
 ---
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/g0wCF04ddnw?si=V3uRD1IFuF2NCVVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="800" src="https://www.youtube.com/embed/g0wCF04ddnw?si=V3uRD1IFuF2NCVVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ~~~
 Pen: Announcer thing, Announcer thing, Announcer thing!
