@@ -24,6 +24,19 @@ li .post-link {
     color: #000000; // Example color for visited links
 }
 
+.post-link:hover {
+    animation: bounce 0.3s ease-in-out;
+
+    @keyframes bounce {
+        0%, 100% {
+            transform: scale(1);
+        }
+        50% {
+            transform: scale(1.2);
+        }
+    }
+}
+
 .wrapper {
     max-width: 100%; // Adjust the value as needed
 }
