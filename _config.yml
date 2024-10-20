@@ -20,7 +20,7 @@
 
 title: BFDI Transcribed!
 description: >- # this means to ignore newlines until "baseurl:"
-  Older episodes start at the beginning, starting at, BFDI, BFDIA, IDFB, BFB, then TPOT. Some new BFDIA and TPOT episodes might come up at the bottom as well. Made by Micah Nordlund - 2024
+  Older episodes start at the bottom, starting at, BFDI, BFDIA, IDFB, BFB, then TPOT. Some new BFDIA and TPOT episodes will come up at the top. Made by Micah Nordlund - 2024
 baseurl: "/bfditranscribed" # the subpath of your site, e.g. /blog
 url: "MicahThePro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MicahThePro
