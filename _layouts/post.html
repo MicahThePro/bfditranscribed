@@ -36,3 +36,16 @@ layout: base
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<nav class="post-navigation">
+  {%- if page.previous -%}
+    <a class="post-navigation-prev" href="{{ page.previous.url | relative_url }}" rel="prev">
+      &larr; {{ page.previous.title }}
+    </a>
+  {%- endif -%}
+  {%- if page.next -%}
+    <a class="post-navigation-next" href="{{ page.next.url | relative_url }}" rel="next">
+      {{ page.next.title }} &rarr;
+    </a>
+  {%- endif -%}
+</nav>

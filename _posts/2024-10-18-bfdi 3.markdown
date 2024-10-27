@@ -1,13 +1,9 @@
 ---
 
 layout: post
-
 title:  "BFDI 3: Are You Smarter than a Snowball?"
-
 date:   2010-03-01 17:35:52 -0500
-
 categories: Season One
-
 permalink: /season1/episode3
 
 ---

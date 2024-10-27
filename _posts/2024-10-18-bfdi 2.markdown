@@ -1,14 +1,11 @@
 ---
 
 layout: post
-
 title:  "BFDI 2: Barriers and Pitfalls"
-
 date:   2010-02-01 17:35:52 -0500
-
 categories: Season One
-
 permalink: /season1/episode2
+
 ---
 
 <iframe class='video-iframe' src="https://www.youtube.com/embed/JfzEO9-Zlhw?si=lJl1rQUrc40TzOoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
