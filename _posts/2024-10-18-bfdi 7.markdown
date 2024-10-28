@@ -5,10 +5,8 @@ title:  "BFDI 7: Puzzling Mysteries"
 date:   2010-07-01 17:35:52 -0500
 categories: Season One
 permalink: /season1/episode7
-
+youtube_embed_url: Ze1p7bYXw0g?si=GWi-QUjg3n_8BSPT
 ---
-
-<iframe class='video-iframe' src="https://www.youtube.com/embed/Ze1p7bYXw0g?si=GWi-QUjg3n_8BSPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ~~~
 Pen: Hey guys, watch this!

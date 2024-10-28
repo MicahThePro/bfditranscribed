@@ -86,3 +86,23 @@ li .post-link {
 .post-navigation-next {
     float: right;
 }
+
+.video-iframe {
+    position: relative;
+    width: 100%;
+    // height: 500px;
+    transition: all 0.3s ease;
+}
+
+.video-iframe.shrink {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    height: 112.5px; /* Maintain 16:9 aspect ratio */
+    z-index: 1000;
+}
+
+div.highlight.shrink {
+    margin-top: 100px;
+}

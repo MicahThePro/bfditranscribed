@@ -5,10 +5,9 @@ title:  "BFDI 8: Cycle of Life"
 date:   2010-08-01 17:35:52 -0500
 categories: Season One
 permalink: /season1/episode8
-
+youtube_embed_url: g0wCF04ddnw?si=V3uRD1IFuF2NCVVr
 ---
 
-<iframe class='video-iframe' src="https://www.youtube.com/embed/g0wCF04ddnw?si=V3uRD1IFuF2NCVVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ~~~
 Pen: Announcer thing, Announcer thing, Announcer thing!

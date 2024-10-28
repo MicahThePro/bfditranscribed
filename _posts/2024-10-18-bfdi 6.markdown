@@ -5,10 +5,9 @@ title:  "BFDI 6: Power of Three"
 date:   2010-06-01 17:35:52 -0500
 categories: Season One
 permalink: /season1/episode6
-
+youtube_embed_url: 6vGgsXO57bs?si=5ZyiZ1_mTW0B9xl_
 ---
 
-<iframe class='video-iframe' src="https://www.youtube.com/embed/6vGgsXO57bs?si=5ZyiZ1_mTW0B9xl_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ~~~
 Announcer: Let’s do Cake at Stake!

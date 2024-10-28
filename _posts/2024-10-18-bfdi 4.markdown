@@ -5,10 +5,8 @@ title:  "BFDI 4: Sweet Tooth"
 date:   2010-04-01 17:35:52 -0500
 categories: Season One
 permalink: /season1/episode4
-
+youtube_embed_url: cdmVPHdpECM?si=ut_oWxXx_PGcApyU
 ---
-
-<iframe class='video-iframe' src="https://www.youtube.com/embed/cdmVPHdpECM?si=ut_oWxXx_PGcApyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ~~~
 BFDI INTRO
