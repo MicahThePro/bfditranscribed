@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title:  "BFDI 8: Cycle of Life"
 date:   2010-08-01 17:35:52 -0500
