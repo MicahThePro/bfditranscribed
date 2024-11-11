@@ -1,5 +1,7 @@
 ---
 
+
+
 layout: post
 title:  "BFDI 2: Barriers and Pitfalls"
 date:   2010-02-01 17:35:52 -0500
@@ -7,6 +9,7 @@ categories: Season One
 permalink: /season1/episode2
 youtube_embed_url: JfzEO9-Zlhw?si=lJl1rQUrc40TzOoz
 ---
+
 
 ~~~
 Announcer: Guess what, Pin? You’ve won a Win Token.

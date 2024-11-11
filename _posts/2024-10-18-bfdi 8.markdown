@@ -8,6 +8,8 @@ youtube_embed_url: g0wCF04ddnw?si=V3uRD1IFuF2NCVVr
 ---
 
 
+
+
 ~~~
 Pen: Announcer thing, Announcer thing, Announcer thing!
 
@@ -17,7 +19,7 @@ Pen: You know how we were having trouble with the jigsaw puzzle?
 
 Announcer: Yeah?
 
-Pen: Well, we solved it, and so we’re free!
+Pen: Well, we solved it, and we’re free!
 
 Announcer: That’s good to know.
 
@@ -243,6 +245,13 @@ Needle: DON’T call me Needy!
 
 Show: *Kenet & Raz - Unreal Super Hero 3*
 ~~~
+
+
+
+
+
+
+
 
 
 
