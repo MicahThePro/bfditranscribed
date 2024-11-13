@@ -3,7 +3,7 @@
 
 
 layout: post
-season: 1
+season: Season 1
 episode: 2
 title:  "BFDI 2: Barriers and Pitfalls"
 date:   2010-02-01 17:35:52 -0500
