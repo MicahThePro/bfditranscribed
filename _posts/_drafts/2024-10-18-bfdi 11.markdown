@@ -2,6 +2,8 @@
 
 
 layout: post
+season: Season 1
+episode: 11
 title:  "BFDI 11: Lofty"
 date:   2010-11-01 17:35:53 -0500
 categories: Season One

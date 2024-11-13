@@ -1,7 +1,9 @@
 ---
+
+
 layout: post
 season: Season 1
-episode: 9
+episode: 10
 title:  "BFDI 10: Crybaby!"
 date:   2010-10-01 17:35:53 -0500
 categories: Season One
@@ -21,7 +23,7 @@ Blocky: What? There’s a bottom?
 
 Leafy: Oh, my tree, I see spikes!
 
-Everyone: AAAAAAAAA!
+Ice Cube & Snowball & Blocky & Leafy: AAAAAAAAA!
 
 Yellow Face: Need some money fast and soon? Then buy our Box of Paper Slips! At first it might just seem like a blank slip if paper, but you can scribble a number on it, and POOF! It’s a dollar bill! This person managed to buy a TV. This person bought a house! This person bought the world! So, yeah! BUY NOW!
 
