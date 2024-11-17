@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 1a
@@ -10,8 +9,6 @@ categories: Season One
 permalink: /season1/episode1a
 youtube_embed_url: YQa2-DY7Y_Q?si=yQcU4CEGFheywUHj
 ---
-
-
 
 
 ~~~
@@ -31,7 +28,9 @@ Ice Cube: Uh, no? Oh, oh! I remember that! I am SO gonna get revenge on her. I c
 
 Bubble: Uh, um… Yeah?
 
-Match & Pencil: No, Ice Cube! Stop! *pop*
+Match & Pencil: No, Ice Cube! Stop! 
+
+Show: *pop*
 
 Bubble: Pin, You nearly popped me!
 
@@ -53,7 +52,9 @@ Tennis Ball: Teardrop, calm down. Kicking Woody could severely injure him. He IS
 
 Woody: *scream*
 
-Eraser: I can’t believe what a scaredy-cat Woody is. He’s so uncool. Pen, though, you’re cool.
+Eraser: I can’t believe what a scaredy-cat Woody is. He’s so uncool.
+
+Pen, though, you’re cool.
 
 Pen: So are you, Eraser.
 
@@ -67,7 +68,9 @@ Rocky: Whee! Oof! Hi, TB, my good-old friend!
 
 Firey: Coiny! You’re so dumb! Hey!
 
-Coiny: Oh my gosh, Firey, You’re so easy to slap. *slapping*
+Coiny: Oh my gosh, Firey, You’re so easy to slap.
+
+Show: *slapping*
 
 Golf Ball: Firey, Coiny, stop fighting! And Spongy, take a bath. You’re stinky.
 
@@ -81,7 +84,8 @@ Announcer: Well, then you’re in luck.
 
 Eraser: Uh, how?.
 
-Announcer: Well, everybody, they’re building the island of luxury. It’s called Dream Island. A whole square mile of paradise, a five-star hotel, a casino, six restaurants, robot servants, and the winner even gets to decide who gets to come in and who doesn’t.
+Announcer: Well, everybody, they’re building the island of luxury.
+ It’s called Dream Island. A whole square mile of paradise, a five-star hotel, a casino, six restaurants, robot servants, and the winner even gets to decide who gets to come in and who doesn’t.
 
 Eraser: So, um, how much’ll it cost?
 
@@ -97,7 +101,7 @@ Announcer: Neither would they. So we must settle this with a contest.
 
 BFDI INTRO
 
-Announcer: So yes. Whoever stays on the bar the longest wins. 
+Announcer: So yes. Whoever stays on the bar the longest wins.
 
 Leafy: Let’s help each other.
 
@@ -117,13 +121,15 @@ Match: That would do no harm!
 
 Pencil: Let’s do it!
 
-Ice Cube: Wha? An alliance? I’ve got to join. Coming through! Sorry, Pen. Hey, guys! Can I be part- boom
+Ice Cube: Wha? An alliance? I’ve got to join. Coming through! Sorry, Pen. Hey, guys! Can I be part- 
+
+Show: *boom*
 
 Pencil: No.
 
-Coiny: Blocky, come on. Wake up! Oops. Snatch!
+Coiny: Blocky, come on. Wake up! Oops.
 
-Blocky: Coiny, don’t ever- Oops.
+Blocky: *Snatch!* Coiny, don’t ever- Oops.
 
 Show: *Yeah!*
 
@@ -159,7 +165,7 @@ Flower: Ha, ha! I’m wearing non-slip shoes, so ha. Hey! Grr! *Snatch!*
 
 Pin: Ack!
 
-Flower: Huh, wha- Ew, oh my god!... *scream*
+Flower: Huh, wha- Ew, oh my god!...*scream*
 
 Leafy: Nice going, Pin. A job well done.
 
@@ -171,7 +177,7 @@ Pin: Oh yeah.
 
 Blocky: Leafy, you’re stepping on me!
 
-Leafy: Wha? Oops. 
+Leafy: Wha? Oops.
 
 Show: *Yeah!*
 

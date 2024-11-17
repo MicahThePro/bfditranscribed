@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 6
@@ -10,8 +9,6 @@ categories: Season One
 permalink: /season1/episode6
 youtube_embed_url: 6vGgsXO57bs?si=5ZyiZ1_mTW0B9xl_
 ---
-
-
 
 
 ~~~
@@ -31,7 +28,7 @@ Announcer: So, the team who lost will do Cake at Stake. If you remember last tim
 
 Firey: Just get on with it!
 
-Announcer:  The cake was too expensive, so I got six cupcakes instead. But think, there are only six. Anyway, we got thirteen votes. That’s one fewer than last time. It’s the first time it’s ever gone down. slowed down I want to cry now. I really do.
+Announcer:  The cake was too expensive, so I got six cupcakes instead. But think, there are only six. Anyway, we got thirteen votes. That’s one fewer than last time. It’s the first time it’s ever gone down. *slowed down* I want to cry now. I really do.
 
 Match: Yeah, I don’t, like, think so.
 
@@ -85,7 +82,7 @@ Match: Uhm, Mister Speaker Thing? I see Pen’s name written on the cupcake!
 
 Bubble: Hey! I see mine on mine, too!
 
-Everyone: *agrees*
+Show: *everyone agrees*
 
 Pen: So, does that mean the cupcake’s mine and I’m safe?
 
@@ -329,7 +326,7 @@ Eraser: Hey, it’s the Speaker Thing!
 
 Announcer: Pen, Eraser, Firey, you’re the first team to finish. You each get a win token. Leave.
 
-Firey & Eraser & Pen: everyone screams
+Firey & Eraser & Pen: *everyone screams*
 
 Leafy: We’re in!
 
@@ -359,7 +356,7 @@ Snowball: OUT OF MY WAY!
 
 Announcer: SB, GB, Rocky, you’re team four, so you’re all safe. Leave.
 
-Golf Ball & Snowball: everyone *screams*
+Golf Ball & Snowball: *everyone screams*
 
 Announcer: Coiny, Icy, Needy- You’re in fifth, last team. One of you will be eliminated.
 
@@ -367,7 +364,7 @@ Coiny & Ice Cube & Needle: No! No! No! No! No! No! No! No! No! No!
 
 Announcer; Viewers out there, vote between Coiny, Ice Cube, and Needle.
 
-Pen: Wait, we’re still flying through the air? Wow, this spring is strong!
+Pen: Wait, we’re still flying through the air? Wow this spring is strong!
 
 Leafy: Are we going up or down now?
 ~~~

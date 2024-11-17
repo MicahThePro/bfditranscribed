@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 5
@@ -10,8 +9,6 @@ categories: Season One
 permalink: /season1/episode5
 youtube_embed_url: xHI-iKm31us?si=Vsu4g865S5akYf7j
 ---
-
-
 
 
 ~~~
@@ -31,7 +28,9 @@ BFDI INTRO
 
 Announcer: Gloop-gloop, doot-doot. It’s time for Cake at Stake for the Cherries.
 
-Show: Da-da-da-da-da-da Cake at Stake! There’s eight of you now. There will only be seven later. Okay, so we got fourteen votes. Well, I wanted to make an ice cream cake, but I forgot the ice cream. So I made a chunk of ice again.
+Show: Da-da-da-da-da-da Cake at Stake! 
+
+Announcer: There’s eight of you now. There will only be seven later. Okay, so we got fourteen votes. Well, I wanted to make an ice cream cake, but I forgot the ice cream. So I made a chunk of ice again.
 
 Pencil: NOOO! BLAAAH!
 

@@ -1,6 +1,9 @@
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 150ee32 (BFDI 10 and other BFDI episode improvements)
 layout: post
 season: Season 1
 episode: 2
@@ -10,7 +13,6 @@ categories: Season One
 permalink: /season1/episode2
 youtube_embed_url: JfzEO9-Zlhw?si=lJl1rQUrc40TzOoz
 ---
-
 
 ~~~
 Announcer: Guess what, Pin? You’ve won a Win Token.

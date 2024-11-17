@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 4
@@ -10,7 +9,6 @@ categories: Season One
 permalink: /season1/episode4
 youtube_embed_url: cdmVPHdpECM?si=ut_oWxXx_PGcApyU
 ---
-
 
 ~~~
 BFDI INTRO

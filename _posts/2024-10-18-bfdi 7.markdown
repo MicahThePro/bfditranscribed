@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 7
@@ -11,13 +10,12 @@ permalink: /season1/episode7
 youtube_embed_url: Ze1p7bYXw0g?si=GWi-QUjg3n_8BSPT
 ---
 
-
 ~~~
 Pen: Hey guys, watch this!
 
 Eraser: I’m better! See? I can do three!
 
-Everyone: Cool! Wow! Amazing! Lame!
+Show: Everyone: Cool! Wow! Amazing! Lame!
 
 Golf Ball: I’m spinning seven!
 
@@ -101,7 +99,7 @@ Announcer: We’ll find out after the break.
 
 Yellow Face: Want skin that’s smooth and soft?! Then buy our Bubble Transformer! It’ll turn you into a bubble, and Bubble’s skin is super smooth! None of the people in our survey said they didn’t like it! Because they popped before we could contact them, and we don’t sell personal Bubble Recovery Centers. So they died… Euhhh… So yeah! Buy now!
 
-Everyone: AHHHH!
+Show: *everyone* AHHHH!
 
 Announcer: People, calm down! There is a way out of here.
 

@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 1b
@@ -10,8 +9,6 @@ categories: Season One
 permalink: /season1/episode1b
 youtube_embed_url: 8LY0o_CgPR8?si=dX0dUKUPX-vZvgKl
 ---
-
-
 
 
 ~~~
@@ -169,11 +166,11 @@ Pin: Oh no! WwwwwWWW! WwwWWwwwwOOOOOoody! BbbBLEH!
 
 Announcer: Okay. Teams are settled, then. Now, teams. Choose your team name.
 
-Everyone: *indistinct chatter*
+Show: *indistinct chatter*
 
 Announcer: Come on! Just choose.
 
-Everyone: *more indistinct chatter *
+Show: *more indistinct chatter *
 
 Announcer: Okay, then. I’ll choose. Pin’s team, you’ll be called the Squishy Cherries.
 
@@ -245,15 +242,11 @@ Show: *bite*
 
 Blocky: YEEEEOOOOWWWCH!
 
-Blocky: *scream*
-
-Show *chomp*
+Show: *scream* - *chomp*
 
 Firey: Yeah! Stay there! We need a plug!
 
-Everyone: *scream*
-
-Show: *thump* - *noises*
+Show: *scream* - *thump* - *noises*
 
 Ice Cube: I’m scared!
 
@@ -263,11 +256,11 @@ Ice Cube: Look out! A tree!
 
 Leafy: WhAAAaaaAT?
 
-Everyone: *scream*
+Show: *scream*
 
 Coiny: Oh this is just great! 
 
-Everyone: *scream*
+Show: *scream*
 
 Pin: There’s too much weight on this sinking boat! We have to throw someone overboard!
 
@@ -281,7 +274,7 @@ Pencil: Come on, Match! Come swim with us!
 
 Match: I can’t! I have no energy left. 
 
-Everyone: *indistinct chatter*
+Show: *indistinct chatter*
 
 Match: Hey! I hear voices! Hey! It’s Tennis Ball and Snowball and Needle and Rocky and Teardrop! Uh, all floating on Spongy.
 
@@ -302,4 +295,5 @@ Show: poke
 Announcer: And Pin’s team, the Squishy Cherries, win. Which means one of the Squashy Grapes is going home. It’s time for you viewers out there to decide. Here are the people on the Squashy Grapes team. Needle, Rocky, Teardrop, Leafy, Flower, and Golf Ball, Coiny, Ice Cube, and Tennis Ball. Who’ll leave first on BFDI? I don’t know. But it’s up to you guys to decide.
 
 Match: Uh, we should get back now.
+
 ~~~

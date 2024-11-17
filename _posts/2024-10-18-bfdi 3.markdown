@@ -1,6 +1,5 @@
 ---
 
-
 layout: post
 season: Season 1
 episode: 3
@@ -10,8 +9,6 @@ categories: Season One
 permalink: /season1/episode3
 youtube_embed_url: rhkgOXksmaY?si=XQI6MP1S6LnVKc7l
 ---
-
-
 
 
 ~~~
