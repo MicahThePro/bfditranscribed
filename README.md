@@ -24,7 +24,7 @@ BFDI Transcribed is a website project aimed at providing detailed transcriptions
 
 ## Website
 
-To visit this bfdi transcription page, click [here](MicahThePro.github.io/bfditranscribed)
+To visit this bfdi transcription page, click [here](https://MicahThePro.github.io/bfditranscribed)
 
 ## Contributing
 
