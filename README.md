@@ -4,9 +4,8 @@ A BFDI Transcribed website in the making!
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
+- [Website](#website)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -26,10 +25,6 @@ BFDI Transcribed is a website project aimed at providing detailed transcriptions
 ## Website
 
 To visit this bfdi transcription page, click [here](MicahThePro.github.io/bfditranscribed)
-
-## Usage
-
-Once the development server is running, you can access the website by navigating to `http://localhost:3000` in your web browser. Here, you can browse through the transcriptions and use the search functionality to find specific content.
 
 ## Contributing
 
