@@ -1,9 +1,5 @@
 ---
 
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of 150ee32 (BFDI 10 and other BFDI episode improvements)
 layout: post
 season: Season 1
 episode: 2
