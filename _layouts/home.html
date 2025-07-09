@@ -112,31 +112,31 @@ layout: base
 </div> -->
 
 <script>
-  // Date-time logic
-  const dateEl = document.getElementById("current-date");
-  if (dateEl) {
-    const now = new Date();
-    dateEl.textContent = now.toLocaleString('en-US', {
-      weekday: 'short', year: 'numeric', month: 'short', day: 'numeric',
-      hour: 'numeric', minute: '2-digit', second: '2-digit',
-      hour12: true
+  document.addEventListener('DOMContentLoaded', function () {
+    // 🕒 Set date
+    const dateEl = document.getElementById("current-date");
+    if (dateEl) {
+      const now = new Date();
+      dateEl.textContent = now.toLocaleString('en-US', {
+        weekday: 'short', year: 'numeric', month: 'short', day: 'numeric',
+        hour: 'numeric', minute: '2-digit', second: '2-digit',
+        hour12: true
+      });
+    }
+
+    // 💬 Save original transcripts
+    document.querySelectorAll('pre').forEach(block => {
+      block.dataset.original = block.textContent;
     });
-  }
 
-  // Live character search logic
-  document.getElementById('character-search')?.addEventListener('input', function () {
-    const query = this.value.toLowerCase();
-    const transcriptBlocks = document.querySelectorAll('pre');
-
-    transcriptBlocks.forEach(block => {
-      const lines = block.textContent.split('\n');
-      const filtered = lines.filter(line => line.toLowerCase().includes(query));
-      block.textContent = query ? filtered.join('\n') : block.dataset.original;
+    // 🔍 Search logic
+    document.getElementById('character-search')?.addEventListener('input', function () {
+      const query = this.value.toLowerCase();
+      document.querySelectorAll('pre').forEach(block => {
+        const lines = block.dataset.original.split('\n');
+        const filtered = lines.filter(line => line.toLowerCase().includes(query));
+        block.textContent = query ? filtered.join('\n') : block.dataset.original;
+      });
     });
-  });
-
-  // Store original transcript
-  document.querySelectorAll('pre').forEach(block => {
-    block.dataset.original = block.textContent;
   });
 </script>
