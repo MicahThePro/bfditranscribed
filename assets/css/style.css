@@ -12,9 +12,6 @@ pre {
   word-break: break-word;
   overflow-wrap: break-word;
   font-family: inherit;
-}
-
-pre {
   background: #f8f8f8;
   padding: 1rem;
   border-radius: 10px;
