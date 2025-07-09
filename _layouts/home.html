@@ -4,7 +4,8 @@ layout: base
 
 
 <div class="accordion" id="seasonAccordion">
-  {% assign seasons = site.posts | group_by: "season" | sort: "name" %}
+  {% assign seasons = site.posts | group_by: "season" %}
+  {% assign seasons = seasons | sort: "name" %}
   {% for season in seasons %}
     <div class="accordion-item">
       <h2 class="accordion-header" id="heading{{ season.name }}">
