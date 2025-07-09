@@ -6,3 +6,19 @@
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+pre {
+  white-space: pre-wrap !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  font-family: inherit;
+}
+
+pre {
+  background: #f8f8f8;
+  padding: 1rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  line-height: 1.5;
+  overflow-x: auto;
+}
