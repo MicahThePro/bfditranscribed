@@ -2,17 +2,6 @@
 layout: base
 ---
 
-<!-- ✅ OUR NEW TOP HEADER BAR -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding: 1rem 0;">
-  <div>
-    <h2 style="margin: 0;">BFDI Transcribed</h2>
-    <p id="current-date" style="margin: 0; font-size: 0.9rem; color: #777;"></p>
-  </div>
-  
-  <div style="flex-grow: 1; max-width: 300px;">
-    <input id="character-search" type="text" placeholder="Search by character..." style="width: 100%; padding: 6px 10px; border-radius: 6px; border: 1px solid #ccc;">
-  </div>
-</div>
 
 <div class="accordion" id="seasonAccordion">
   {% assign seasons = site.posts | group_by: "season" %}
@@ -110,33 +99,3 @@ layout: base
   {%- endif -%}
 
 </div> -->
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    // 🕒 Set date
-    const dateEl = document.getElementById("current-date");
-    if (dateEl) {
-      const now = new Date();
-      dateEl.textContent = now.toLocaleString('en-US', {
-        weekday: 'short', year: 'numeric', month: 'short', day: 'numeric',
-        hour: 'numeric', minute: '2-digit', second: '2-digit',
-        hour12: true
-      });
-    }
-
-    // 💬 Save original transcripts
-    document.querySelectorAll('pre').forEach(block => {
-      block.dataset.original = block.textContent;
-    });
-
-    // 🔍 Search logic
-    document.getElementById('character-search')?.addEventListener('input', function () {
-      const query = this.value.toLowerCase();
-      document.querySelectorAll('pre').forEach(block => {
-        const lines = block.dataset.original.split('\n');
-        const filtered = lines.filter(line => line.toLowerCase().includes(query));
-        block.textContent = query ? filtered.join('\n') : block.dataset.original;
-      });
-    });
-  });
-</script>
