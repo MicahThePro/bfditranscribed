@@ -1,6 +1,0 @@
-/* FIX LINE WRAPPING FOR CODE BLOCKS WITHOUT MAKING IT UGLY */
-pre, code {
-  white-space: pre-wrap !important;
-  word-break: break-word;
-  overflow-wrap: break-word;
-}
