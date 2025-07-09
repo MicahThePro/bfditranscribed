@@ -1,21 +1,16 @@
-.post-content {
-  white-space: pre-wrap;
+/* WRAP INSIDE CODE BLOCKS */
+pre, code, .highlighter-rouge, .highlight pre {
+  white-space: pre-wrap !important;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-pre {
-  white-space: pre-wrap !important;
-  word-break: break-word;
-  overflow-wrap: break-word;
+  overflow-x: auto;
   font-family: inherit;
-  background: #f8f8f8;
-  padding: 1rem;
-  border-radius: 10px;
   font-size: 1rem;
   line-height: 1.5;
-  overflow-x: auto;
+}
+
+.highlight pre {
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  padding: 1rem;
 }
