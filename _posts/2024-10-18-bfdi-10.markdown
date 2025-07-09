@@ -2,7 +2,7 @@
 
 
 layout: post
-season: Season 2
+season: Season 1
 episode: "10"
 episode_sort: 10.0
 title:  "BFDI 10: Crybaby!"
