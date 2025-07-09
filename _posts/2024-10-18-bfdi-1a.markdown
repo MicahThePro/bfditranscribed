@@ -2,7 +2,7 @@
 
 layout: post
 season: Season 1
-episode: 1a
+episode: "1a"
 title:  "BFDI 1a: Take the Plunge"
 date:   2010-01-01 17:35:51 -0500
 categories: Season One
