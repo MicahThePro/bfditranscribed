@@ -12,7 +12,7 @@ layout: base
           {{ season.name }}
         </button>
       </h2>
-      <div id="collapse{{ season.name }}" class="accordion-collapse collapse {% if forloop.first == true %}show{% endif %}" aria-labelledby="heading{{ season.name }}" data-bs-parent="#seasonAccordion">
+      <div id="collapse{{ season.name }}" class="accordion-collapse collapse {% if forloop.first == true %}show{% endif %}" aria-labelledby="heading{{ season.name }}">
         <div class="accordion-body">
           <ul class="post-list">
             {% assign episodes = season.items | sort: "episode_sort" | reverse %}
