@@ -1,6 +1,4 @@
 ---
-
-
 layout: post
 season: Season 1
 episode: "10"
@@ -11,7 +9,6 @@ categories: Season One
 permalink: /season1/episode10
 youtube_embed_url: Eg5Ja23HfhY?si=OqvWJRApgA7iqcp4
 ---
-
 
 ~~~
 Blocky: Falling down a bottomless pit is boring ‘cause it’s taking SO LONG!
